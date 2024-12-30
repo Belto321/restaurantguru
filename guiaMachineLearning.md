@@ -349,7 +349,8 @@ wordcloud = WordCloud().generate(positive_reviews)
 
 ## Entregables al final de la Fase 3
 
-- Modelo de análisis de sentimiento con métricas validadas.
-- Insights clave sobre las opiniones de los usuarios, organizados por región, categoría y restaurante.
-- Visualizaciones como nubes de palabras, gráficos de barras y mapas interactivos.
+- Un sistema de recomendación de comidas diseñado para asistir al usuario en la selección del establecimiento ideal y fomente la exploración de nuevos sabores y platos con confianza.
+- Un modelo de análisis de sentimiento con métricas validadas que proporcione a la gerencia una visión clara de la percepción de los usuarios, identificando áreas de mejora y fortalezas a potenciar.
 - Un sistema que pueda predecir el éxito potencial de un nuevo local basado en patrones de sentimiento.
+- Insights clave sobre las opiniones de los usuarios, organizados por región, categoría y restaurante. Estos podrian ser mostrados en el Dashboard.
+- Visualizaciones como nubes de palabras, gráficos de barras y mapas interactivos. Estos podrian ser mostrados en el Dashboard.
